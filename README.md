@@ -1,6 +1,6 @@
 # Keyboard Macro
 
-This script watches your keyboard and when you press **F1**, it automatically types **F**, **E**, and **R**. Each key (F, E, R) is sent with a random delay of 1-20ms.
+This script watches keys pressed on keyboard and when you press F1, it automatically types F, E, and R. Each key is sent with a random delay.
 
 ## Requirements
 
@@ -10,9 +10,9 @@ This script watches your keyboard and when you press **F1**, it automatically ty
 
 1. Open the file `keyboard-macro.au3`.
 2. Run the script.
-3. Press **F1** to type F-E-R.
-4. Press **ESC** to stop the program.
+3. Press F1 to type F-E-R.
+4. Press ESC to stop the program.
 
 ## Compiling to .exe file
 
-Right-click on `keyboard-macro.au3` and choose **Compile Script**.
+Right-click on `keyboard-macro.au3` and choose Compile script.
