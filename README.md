@@ -11,7 +11,7 @@ This script watches keys pressed on keyboard and when you press F1, it automatic
 1. Open the file `keyboard-macro.au3`.
 2. Run the script.
 3. Press F1 to type F-E-R.
-4. Press ESC to stop the program.
+4. Press F10 to stop the program.
 
 ## Compiling to .exe file
 
