@@ -13,7 +13,7 @@ While True
         WEnd
     EndIf
 
-    If _IsPressed("1B") Then
+    If _IsPressed("79") Then
         ConsoleWrite("Exiting..." & @CRLF)
         Exit
     EndIf
