@@ -1,7 +1,7 @@
 #include <Misc.au3>
 
 ConsoleWrite("keyboard-macro started. Press F1 to trigger F-E-R sequence." & @CRLF)
-ConsoleWrite("Press ESC to exit." & @CRLF)
+ConsoleWrite("Press F10 to exit." & @CRLF)
 
 While True
     If _IsPressed("70") Then
